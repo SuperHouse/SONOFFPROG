@@ -9,6 +9,8 @@ to match the programming header on a Sonoff.
  - Connects directly to FTDI cable
  - Switch to allow target device to be power cycled for flashing
 
+More information available at www.superhouse.tv/sonoffprog
+
 INSTALLATION
 ------------
 The design is saved as an EAGLE project. EAGLE PCB design software is
