@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.6.2">
+<eagle version="9.0.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1412,10 +1412,10 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <wire x1="65.786" y1="17.78" x2="65.786" y2="12.7" width="0.3048" layer="94"/>
 <text x="7.62" y="20.32" size="3.048" layer="94">Sonoff Serial Programming Adapter</text>
 <text x="38.1" y="14.478" size="1.778" layer="94">V1.0 (2017-12-26)</text>
-<text x="7.62" y="14.478" size="1.778" layer="94">SKU: SPROG</text>
+<text x="7.62" y="14.478" size="1.778" layer="94">SKU: SONOFFPROG</text>
 <text x="7.366" y="9.398" size="1.778" layer="94">(C)2017 SuperHouse Automation Pty Ltd. Designed by Jonathan Oxer.</text>
 <text x="7.366" y="6.35" size="1.778" layer="94">Licensed under the TAPR Open Hardware License: www.tapr.org/ohl</text>
-<text x="68.326" y="14.478" size="1.778" layer="94">superhouse.tv/sprog</text>
+<text x="68.326" y="14.478" size="1.778" layer="94">superhouse.tv/sonoffprog</text>
 <frame x1="0" y1="0" x2="190.5" y2="127" columns="8" rows="5" layer="94"/>
 <frame x1="5.08" y1="12.7" x2="109.22" y2="25.4" columns="0" rows="0" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
 <frame x1="5.08" y1="5.08" x2="109.22" y2="17.78" columns="0" rows="0" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
